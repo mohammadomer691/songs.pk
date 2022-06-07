@@ -80,6 +80,22 @@ new Vue({
             source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
             url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
             favorited: false
+          },
+          {
+            name: "Brown Munde",
+            artist: "AP Dhillon, Gurinder Gill",
+            cover: "https://github.com/mohammadomer691/song/raw/main/size_l.webp  ",
+            source: "https://github.com/mohammadomer691/song/raw/main/Brown-Munde-AP-Dhillon-Gurinder-Gill.mp3",
+            url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+            favorited: false
+          },
+          {
+            name: "Excuses",
+            artist: "ap-dhillon",
+            cover: "https://github.com/mohammadomer691/song/raw/main/148549-excuses-ap-dhillon-mp3-song-300.jpg",
+            source: "https://github.com/mohammadomer691/song/raw/main/Excuses.mp3",
+            url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+            favorited: false
           }
         ],
         currentTrack: null,
